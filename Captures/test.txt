@@ -1,6 +1,2 @@
 assssssssssssssss
-<<<<<<< HEAD
-Trên máy
-=======
 Trên git
->>>>>>> bcbc29aa9ae46f93993a089da8988fd13a1e6069
